@@ -1,0 +1,17 @@
+arcgis==1.7.1
+cython
+cx_Oracle
+psycopg-binary==3.1.18
+psycopg2-binary
+pyproj==3.2.1
+shapely==1.8.0
+config
+arrow==1.2.1
+click==8.0.3
+petl==1.7.4
+#-e git+https://github.com/CityOfPhiladelphia/geopetl.git#egg=geopetl
+git+https://github.com/CityOfPhiladelphia/geopetl.git#egg=geopetl
+pytz==2021.3
+simple-salesforce==1.11.4
+pymsteams==0.2.0
+
